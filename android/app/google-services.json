@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140554017294",
+    "project_id": "approckstask",
+    "storage_bucket": "approckstask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140554017294:android:f017159ad9dd8eb1513a5f",
+        "android_client_info": {
+          "package_name": "xa.approcks_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140554017294-jea2mm8m56tupcb3qleejr1l1v2onbvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhz4jKY--Yyl6Vqfy62w1Uc0VWpBL2h7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140554017294-jea2mm8m56tupcb3qleejr1l1v2onbvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
